@@ -36,3 +36,6 @@ Optimize course content based on student engagement
 Improve user retention with data-backed strategies
 
 Monitor revenue performance in real time
+![Screenshot (1147)](https://github.com/user-attachments/assets/7fec4850-b2d4-44ca-bc56-18d2673c60b6)
+
+
