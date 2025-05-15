@@ -39,3 +39,6 @@ Monitor revenue performance in real time
 ![Screenshot (1147)](https://github.com/user-attachments/assets/7fec4850-b2d4-44ca-bc56-18d2673c60b6)
 
 
+![Screenshot (1148)](https://github.com/user-attachments/assets/5624a83b-4d07-4aff-ae28-8114b8396d6c)
+
+
